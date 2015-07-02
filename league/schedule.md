@@ -38,7 +38,8 @@ Standings will be determined by a team’s record, then the following tie breake
 
 The 8 teams that did not make the playoffs will play in a consolation bracket.
 
-Round 1:        Week 13
-Semi-Finals:        Week 14
-Best Loser:     Week 15 & 16
+* Round 1:        Week 13
+* Semi-Finals:        Week 14
+* Best Loser:     Week 15 & 16
+<br/>
 *ESPN does not support splitting up weeks per matchup, but we’ll do it anyway.*
