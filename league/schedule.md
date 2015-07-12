@@ -16,9 +16,9 @@ Weeks per matchup:  1
 
 4 teams make the playoff, the winner of each of division and the top remaining team.  The top division champ plays the wild card team.
 
-Weeks per matchup:  2
-Semi-Finals:        Week 13 & 14
-Championship:   Week 15 & 16
+Weeks per matchup:  2<br/>
+Semi-Finals:        Week 13 & 14<br/>
+Championship:   Week 15 & 16<br/>
 
 ### Standings
 
