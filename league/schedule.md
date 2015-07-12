@@ -7,9 +7,9 @@ The league is split into 3 divisions of 4 teams.
 ### Schedule
 
 
-Regular Season:     Weeks 1 – 12
-Rivalry Week:       Week 12
-Weeks per matchup:  1
+Regular Season:     Weeks 1 – 12<br/>
+Rivalry Week:       Week 12<br/>
+Weeks per matchup:  1<br/>
 
 ### Playoffs
 
