@@ -96,30 +96,36 @@
   <tr>
     <td>FG Made (40 – 49)</td>
     <td>5</td>
-    <td>Fumble Recovery</td>
+    <td>Sack</td>
     <td>3</td>
   </tr>
   <tr>
     <td>FG Made (50+)</td>
     <td>6</td>
-    <td>Forced Fumble</td>
+    <td>Fumble Recovery</td>
     <td>3</td>
   </tr>
   <tr>
     <td>FG Missed (0 - 39)</td>
     <td>-2.5</td>
-    <td>Safety</td>
+    <td>Forced Fumble</td>
     <td>3</td>
   </tr>
   <tr>
     <td>FG Missed (40 - 49)</td>
     <td>-0.5</td>
-    <td>Stuffs</td>
-    <td>0.5</td>
+    <td>Safety</td>
+    <td>3</td>
   </tr>
   <tr>
     <td colspan="2"></td>
     <td>Pass Defended</td>
     <td>2</td>
   </tr>
+<tr>
+    <td colspan="2"></td>
+    <td>Stuffs</td>
+    <td>0.5</td>
+  </tr>
+  
 </table>
