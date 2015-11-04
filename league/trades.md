@@ -7,3 +7,12 @@
 5. There is a **2 day** trade review. **5 owners** must veto the trade for it to be nullified.  Owners can only veto trades that indicate collusion or other dishonest or non-competitive action.
 6. Trade approval can be expedited if it is agreed upon by a majority of the league.
 
+## Tradable Commodities
+
+The following resources can be included in trades:
+
+* Active Contracts.
+* Practice Squad Contracts.
+* Draft picks for the next rookie draft.
+* Cap space for the **current season.**
+ 
