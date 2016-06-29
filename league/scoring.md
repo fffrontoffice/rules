@@ -83,7 +83,7 @@
   </tr>
   <tr>
     <td>Missed PAT</td>
-    <td>-3</td>
+    <td>-1</td>
     <td>Blocked Kick</td>
     <td>3</td>
   </tr>
