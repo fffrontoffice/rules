@@ -23,6 +23,7 @@ At the end of the season when player contracts are expiring, a team has the opti
 
 * The owner can extend the player’s contract for 1-year at salary of 15% over either their market value or what you paid them last year (whichever is higher).
 * The second year a franchise tag is applied to a player, the rate increases to 30%.
+* The franchse price has a $50 minimum.
 * A player cannot be franchised 3 years in a row.
 * A franchise tag must be declared prior to the *pre-draft roster lock*.
 
