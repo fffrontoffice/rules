@@ -1,6 +1,6 @@
 # Active Roster
 
-During the NFL season, a team’s roster will consist of **25 players** with a starting lineup of **1 QB, 2 RB, 2 WR, 1 RB/WR flex, 1 TE, 1 K, 3 IDP (individual defensive player).**  There are **14 bench spots.**
+During the NFL season, a team’s roster will consist of **25 players** with a starting lineup of **1 QB, 2 RB, 2 WR, 1 RB/WR flex, 1 TE, 1 K, 4 IDP (individual defensive player).**  There are **14 bench spots.**
 
 | Position |Quantity|Description|
 |:--------|:---:|:---|
