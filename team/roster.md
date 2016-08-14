@@ -10,6 +10,6 @@ During the NFL season, a team’s roster will consist of **25 players** with a s
 |RB/WR/TE|1|Running Back, Wide Receiver, or Tight End|
 |TE|1|Tight End|
 |K|1|Kicker|
-|DP|3|Defensive Player (any position)|
-|Bench|15|No restriction or limit on how many of each position is on your bench|
+|DP|4|Defensive Player (any position)|
+|Bench|14|No restriction or limit on how many of each position is on your bench|
 |IR|1|Injured Reserve - Player must be placed on IR on their NFL team.|
