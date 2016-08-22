@@ -43,7 +43,7 @@ After the rookie draft and free agent auction draft, all remaining free agents w
 
 When two matching bids are submitted, the bid submitted on an earlier calendar day will take precedence.  If the bids are submitted on the same calendar day, then a tiebreak will be based on the time the bid was submitted.
 
-Owners may bid over their cap or roster size limit, but if a winning bid puts a team over cap space or roster limit, the owner must terminate previously existing contracts until the team once again is within roster and cap limits. A winning bid that puts an owner over cap/roster limits cannot be dropped until the team is within roster and cap limits.
+Owners may bid over their cap or roster size limit, but if a winning bid puts a team over cap space or roster limit, the owner must terminate previously existing contracts until the team once again is within roster and cap limits. New players cannot be added and bids  cannot be won until the team us within roster and cap space limits. Also, a winning bid that puts an owner over cap/roster limits cannot be dropped until the team is within roster and cap limits.
 
 ### Timeline for acquiring Free Agents
 
