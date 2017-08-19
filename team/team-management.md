@@ -58,7 +58,7 @@ A player’s annual salary is determined based on the following:
 
 If you wish to drop a player, thus terminating the contract, you must pay that player **half of his salary for each remaining year** on the contract.  This is taken away from your salary cap for each of those years.
 
-* Termination penalties will round up to the nearest dollar.  So a $7 salary will have a $4 termination penalty.
+* Termination penalties will round up to the nearest dollar.  So a $7 salary will have a $4 termination penalty and a $1 salary will have a $1 termination penalty.
 * There is no termination penalty for contracts with a zero dollar amount.
 * After **Week 8** (halfway through the season), the termination penalty is cut in half for the current year.  A player with a $100 salary would have a $50 termination penalty before/during week 8 and $25 termination penalty afterwards.
 * Contracts can be terminated at any point in the year except a two day freeze period leading up to the rookie draft and free agent auction.
