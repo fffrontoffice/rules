@@ -7,18 +7,27 @@ The league is split into 3 divisions of 4 teams.
 ### Schedule
 
 
-Regular Season:     Weeks 1 – 12<br/>
-Rivalry Week:       Week 12<br/>
+Regular Season:     Weeks 1 – 11<br/>
+Rivalry Week:       Week 11<br/>
 Weeks per matchup:  1<br/>
 
 ### Playoffs
 
 
-4 teams make the playoff, the winner of each of division and the top remaining team.  The top division champ plays the wild card team.
+6 teams make the playoff, the winner of each division and the top 3 remaining teams.  The top two division champs with the best regular season through 11 weeks will receive a week 12 BYE, the remaining division champ will play the wildcard team with the worst record, and the remaining two wildcard teams will play each other in a Week 12 Wildcard Round. Following the single week wildcard round, the victors will advance to play the top 2 division champs in a traditional two week per matchup League Playoff.
 
+**Wildcard Round**<br>
+Week: 12 <br>
+Weeks per matchup:  1<br/>
+
+**Semi-Finals**<br>
+Weeks: 13 & 14<br>
 Weeks per matchup:  2<br/>
-Semi-Finals:        Week 13 & 14<br/>
-Championship:   Week 15 & 16<br/>
+
+**Semi-Finals**<br>
+Weeks: 15 & 16<br>
+Weeks per matchup:  2<br/>
+
 
 ### Standings
 
@@ -36,10 +45,8 @@ Standings will be determined by a team’s record, then the following tie breake
 ### Inconsolable Bracket
 
 
-The 8 teams that did not make the playoffs will play in a consolation bracket.
+The 6 teams that did not make the playoffs will play in a consolation bracket following the same structure as the League Playoffs.
 
-* Round 1:        Week 13
-* Semi-Finals:        Week 14
+* Round 1:        Week 12
+* Semi-Finals:        Week 13 & 14
 * Best Loser:     Week 15 & 16
-<br/>
-*ESPN does not support splitting up weeks per matchup, but we’ll do it anyway.*
