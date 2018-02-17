@@ -15,4 +15,4 @@ The following resources can be included in trades:
 * Practice Squad Contracts.
 * Draft picks for the next rookie draft.
 * Cap space for the **current season.**
- 
+* Gum
