@@ -69,6 +69,11 @@
     <td>6</td>
   </tr>
   <tr>
+    <td>Each Reception</td>
+    <td>0.5</td>
+    <td colspan="2"></td>
+  </tr>
+  <tr>
     <td colspan="2" style="font-weight: bold">
         Kicking
     </td>
