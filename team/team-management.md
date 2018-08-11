@@ -39,6 +39,7 @@ A player’s annual salary is determined based on the following:
     * The contracts impacted by the valuation will be communicated to league owners **one week before draft day**. Owners will have until the *pre-draft roster lock deadline* (see section Free Agent Auction) to terminate the contract before the increase is applied. The owner will incur the standard contract termination penalty at the pre-valuation contract price.
     * For applicable contracts, the increase to 60% market value will take place at the same time as the *pre-draft roster lock*.
     * Market value adjustments do not apply to defensive players.
+    * While the League uses FFToolbox, market values less than $50 will be ignored as the volatility and reliability of those prices is too high.
 
 *\* __Market Value__ is determined by scaling the average auction values from the FFToolbox average auction value list.*
 
