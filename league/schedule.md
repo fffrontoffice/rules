@@ -14,7 +14,7 @@ Weeks per matchup:  1<br/>
 ### Playoffs
 
 
-6 teams make the playoff, the winner of each division and the top 3 remaining teams.  The top two division champs with the best regular season through 11 weeks will receive a week 12 BYE, the remaining division champ will play the wildcard team with the worst record, and the remaining two wildcard teams will play each other in a Week 12 Wildcard Round. Following the single week wildcard round, the victors will advance to play the top 2 division champs in a traditional two week per matchup League Playoff. The losers of the wildcard matchup will get a Week 13 BYE and join the consolable bracket in week 14.
+6 teams make the playoff, the winner of each division and the top 3 remaining teams.  The top two division champs with the best regular season through 11 weeks will receive a week 12 BYE, the remaining division champ will play the wildcard team with the worst record, and the remaining two wildcard teams will play each other in a Week 12 Wildcard Round. Following the single week wildcard round, the victors will advance to play the top 2 division champs in a traditional two week per matchup League Playoff.
 
 **Wildcard Round**<br>
 Week: 12 <br>
@@ -45,9 +45,13 @@ Standings will be determined by a team’s record, then the following tie breake
 ### Inconsolable Bracket
 
 
-The 6 teams that did not make the playoffs will play in a consolation bracket following the same structure as the League Playoffs.
+The 6 teams that did not make the playoffs and the 2 teams that lose the Week 12 wildcard round will play in a consolation bracket following this structure:
 
-* Dregs Round: Week 12 (Bottom 4 teams play into consolation bracket; top 2 teams (ranked 7 and 8) get a BYE)
-* Contenders Round: Week 13  
+* Dregs Round: Week 12 (Bottom 4 teams play into consolation bracket; top 2 teams (ranked 7 and 8) get a BYE);
+* Contenders Round: Week 13
 * Semi-Finals: Week 14
 * Best Loser: Week 15 & 16
+
+### Wildcard Losers
+
+In week 13, the losers of the wildcard matchup will play head-to-head for the 7th pick in next season's rookie draft (loser gets 8th pick) then join the consolable bracket in week 14 based on regular season performance with lower seeded wildcard loser playing highest remaining seed.
