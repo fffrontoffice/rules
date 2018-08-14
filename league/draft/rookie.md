@@ -3,6 +3,7 @@
 1. A **2 round** sequential (non-snake) rookie draft will be held following the real NFL draft.
 2. Draft order will be determined as follows:
     * Championship bracket results: The league champion will have the last of the first round.
+    * Wildcard losers play head-to-head in Week 14 for 7th draft pick (loser gets 8th pick)
     * Reverse of the previous season’s standings: Team finishing in last place having the first 
 3. Rookies are drafted onto your practice squad.
 4. Rookies do not count against your roster size or salary cap until they are signed from your practice squad.
