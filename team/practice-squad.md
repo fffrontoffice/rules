@@ -9,3 +9,7 @@ When you activate a practice squad player, you must declare the length of their 
 ### Dropping a Practice Squad Player
 
 A practice squad player can be released at any time without penalty regardless of their draft position.
+
+### Rookie Draft
+
+If you have more draft picks than open practice squad spots, you may draft over the amount of spots you have available, but must get your practice squad back to the established maximum before the end of the day after the draft.
