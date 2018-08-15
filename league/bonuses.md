@@ -13,7 +13,15 @@ A statistical challenge is defined for each week of the regular season.   The te
 |Week 7|Highest scoring starting QB + TE combo (includes flex)|
 |Week 8|Highest scoring starting IDP |
 |Week 9|Highest scoring starting defense (all IDPs combined)|
-|Week 10|Longest FG by starting K |
+|Week 10|Longest FG by starting K|
 |Week 11|Highest scoring starting player at any position |
 |Week 12|Highest scoring team|
 
+**Week 10 Tie Breaker**
+
+If multiple kickers have the same distance, the following tie breakers will be applied in order:
+
+* Kicker had a game winning FG (doesn't have to be longest kick)
+* FG % for the game (regardless of denominator)
+* Proximty to end of game (including overtime)
+* Whichever kicker has the most attractive significant other as voted upon by the significant others of all league members.
