@@ -7,7 +7,6 @@
     * Reverse of the previous season’s standings: Team finishing in last place having the first 
 3. Rookies are drafted onto your practice squad.
 4. Rookies do not count against your roster size or salary cap until they are signed from your practice squad.
-of the draft.
 5. If a team's practice squad is full, they may complete the draft but must cut down their practice squad to the maxiumum nunmber of slots by the end of the day after the draft.
 6.  Player salary will be determined by the draft position as follows:
 
