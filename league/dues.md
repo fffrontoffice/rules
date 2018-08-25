@@ -15,7 +15,7 @@
 
 ### League Victor Prize
 
-$5 from every team's dues will go towards a customized piece of apparel for the league champion. The design and procurement will be fascilitated by the League Office of Victory Procurement, headed by a vounteer prior to the start of the season.
+$5 from every team's dues will go towards a customized piece of apparel for the league champion. The design and procurement will be fascilitated by the League Office of Victory Procurement, headed by a volunteer prior to the start of the season.
 
 ### Last Place Fee
 
