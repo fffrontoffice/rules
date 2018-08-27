@@ -39,7 +39,7 @@ After the rookie draft takes place, an auction draft for free agents will be hel
 
 ### Off-Season Free Agent Blind Bidding Auction
 
-After the rookie draft and free agent auction draft, all remaining free agents will be available for blind bidding through the off season.  A bid must go three days (i.e. pass midnight three times) without a better bid being placed before the owner gets the player.  This period ends when rosters are cut down to 25 players 1 week before the start of NFL Week 1.  Teams that are over their salary cap (in the negative) cannot acquire players until they are out of the negative.
+After the rookie draft and free agent auction draft, all remaining free agents will be available for blind bidding through the off season.  A bid must go three days (i.e. pass midnight three times) without a better bid being placed before the owner gets the player.  This period ends when rosters are cut down to 26 players 1 week before the start of NFL Week 1.  Teams that are over their salary cap (in the negative) cannot acquire players until they are out of the negative.
 
 When two matching bids are submitted, the bid submitted on an earlier calendar day will take precedence.  If the bids are submitted on the same calendar day, then a tiebreak will be based on the time the bid was submitted.
 
