@@ -55,3 +55,7 @@ The 6 teams that did not make the playoffs and the 2 teams that lose the Week 12
 ### Wildcard Losers
 
 In week 13, the losers of the wildcard matchup will play head-to-head for the 7th pick in next season's rookie draft (loser gets 8th pick) then join the consolable bracket in week 14 based on regular season performance with lower seeded wildcard loser playing highest remaining seed.
+
+### Playoff Bracket
+
+![image](https://user-images.githubusercontent.com/600955/49603657-e25dbe00-f959-11e8-89eb-f593ffaeb90e.png)
