@@ -10,6 +10,7 @@ During the NFL Regular Season, free agents and waivers can be picked up through 
     * If a team starts the player over cap, the player will receive **0 points** for the matchup and the owner will be fined **$20 USD**.  This money will go toward the championship winnings.
 * If there is a tie for a winning bid, the player goes to the team with the lower record based on inverse order of standings (resets each week).
 * This process is closed after championship week.  (1:00 PM ET Monday, Week 16)
+* If a player is dropped, that player cannot be added by the same team until at least one waiver period has passed (see [#37](https://github.com/fffrontoffice/rules/issues/37)).
 
 
 ### Contract Expiration
