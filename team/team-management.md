@@ -71,3 +71,9 @@ If you wish to drop a player, thus terminating the contract, you must pay that p
 ### Injured Reserve Salary
 
 Moving a player to your IR slot frees up their salary from the salary cap.  Dropping a play that is on IR still incurs the termination penalty stated above.
+
+### Setting Lineup
+
+Each owner is responsible for making their best effort to set their most competitive lineup to advantage their team for the current season as well as maintaining the competitive integrity of the league. If at any time an owner fails to make their best effort to set their most competitive lineup or at any point makes starting lineup decisions that put into question the competitive integrity of the League, the owner will be fined $20 USD which will be added to the championship winnings. This includes personal hardships where a lineup decision could have been made earlier in the week but does not include personal hardships where a player's injury status is non-definitive prior to aforementioned hardship.
+
+If an owner *intentionally* leaves a starting roster in a position in a non-competitive state (e.g. unfilled, BYE week player, injured player), then the owner must declare intentions to the satisfaction of other League owners. For example, if all of a team's TEs are injured or on a BYE, the owner may choose to leave the spot empty rather than dropping a more valuable player to pick up a low end TE for the week. If any member of the League is unsatisfied with the motivation, a vote may be put forth to determine if (a) the given action is considered "best effort" to set the most competitive lineup to advantage their team for the current season and (b) the competitive integrity of the League is not compromised. If 7 of 11 owners determine the lineup does not meet this criteria, then the owner will pay the fine described above.
