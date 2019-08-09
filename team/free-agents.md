@@ -33,8 +33,12 @@ At the end of the season when player contracts are expiring, a team has the opti
 
 After the rookie draft takes place, an auction draft for free agents will be held.
 
-* Players will be nominated for auction by owners in the order of last season’s final standings for at least 2 rounds. At the end of round 2 and each following round, a vote will be taken to determine if the auction needs to continue.
- * Once a player is “won,” the owner must specify the length of contract as soon as possible, but no later than 48 hours of the draft.
+* Players will be nominated for auction by owners from a previously determined list of players known as the **Must Auction Live List** (MALL).
+* The MALL contains:
+  * Free agents with ESPN average auction amount of $40 or more.
+  * Players nominated by owners prior to the start of the draft. Each owner may nominate up to 3 names.
+* The Free Agent Auction is over once this list is exhausted. All other free agents become available for acquisition when Offseason Blind Bidding opens. 
+* Once a player is “won,” the owner must specify the length of contract as soon as possible, but no later than 48 hours of the draft.
 * League owners can only bid on and acquire players if there team is under or at their salary cap.  Owners cannot bid more than their cap space will allow.
 
 
