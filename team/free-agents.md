@@ -44,11 +44,11 @@ After the rookie draft takes place, an auction draft for free agents will be hel
 
 ### Off-Season Free Agent Blind Bidding Auction
 
-After the rookie draft and free agent auction draft, all remaining free agents will be available for blind bidding through the off season.  A bid must go three days (i.e. pass midnight three times) without a better bid being placed before the owner gets the player.  This period ends when rosters are cut down to 26 players 1 week before the start of NFL Week 1.  Teams that are over their salary cap (in the negative) cannot acquire players until they are out of the negative.
+After the rookie draft and free agent auction draft, all remaining free agents will be available for blind bidding through the off season.  A bid must go three days (i.e. pass midnight three times) without a better bid being placed before the owner gets the player.  This period ends with final processing on Tuesday before the start of NFL Week 1 with last bids being submitted the Saturday before NFL Week 1 (assuming it starts with Thursday Night Football).  Teams that are over their salary cap (in the negative) cannot acquire players until they are out of the negative.
 
 When two matching bids are submitted, the bid submitted on an earlier calendar day will take precedence.  If the bids are submitted on the same calendar day, then a tiebreak will be based on the time the bid was submitted.
 
-Owners may bid over their cap or roster size limit, but if a winning bid puts a team over cap space or roster limit, the owner must terminate previously existing contracts until the team once again is within roster and cap limits. New players cannot be added and bids  cannot be won until the team us within roster and cap space limits. Also, a winning bid that puts an owner over cap/roster limits cannot be dropped until the team is within roster and cap limits.
+Owners may bid over their cap or roster size limit, but if a winning bid puts a team over cap space or roster limit, the owner must terminate previously existing contracts until the team once again is within roster and cap limits immediately with same 24 hours warning and 48 hour fine indicated in "In-Season Free Agents" section above. New players cannot be added and bids  cannot be won until the team us within roster and cap space limits. Also, a winning bid that puts an owner over cap/roster limits cannot be dropped until the team is within roster and cap limits.
 
 ### Timeline for acquiring Free Agents
 
