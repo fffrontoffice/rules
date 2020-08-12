@@ -77,3 +77,22 @@ Moving a player to your IR slot frees up their salary from the salary cap.  Drop
 Each owner is responsible for making their best effort to set their most competitive lineup to advantage their team for the current season as well as maintaining the competitive integrity of the league. If at any time an owner fails to make their best effort to set their most competitive lineup or at any point makes starting lineup decisions that put into question the competitive integrity of the League, the owner will be fined $20 USD which will be added to the championship winnings. This includes personal hardships where a lineup decision could have been made earlier in the week but does not include personal hardships where a player's injury status is non-definitive prior to aforementioned hardship.
 
 If an owner *intentionally* leaves a starting roster in a position in a non-competitive state (e.g. unfilled, BYE week player, injured player), then the owner must declare intentions to the satisfaction of other League owners. For example, if all of a team's TEs are injured or on a BYE, the owner may choose to leave the spot empty rather than dropping a more valuable player to pick up a low end TE for the week. If any member of the League is unsatisfied with the motivation, a vote may be put forth to determine if (a) the given action is considered "best effort" to set the most competitive lineup to advantage their team for the current season and (b) the competitive integrity of the League is not compromised. If 7 of 11 owners determine the lineup does not meet this criteria, then the owner will pay the fine described above.
+
+### COVID-19 
+
+Due to complications introduced by the 2020 pandemic, the following rules are in place for the 2020 season expiring midnight July 31st 2021 and to be evaluated again for the 2021 season at that time. 
+
+* Players impacted by COVID are capable of being tagged as IR in FFFO with no maximum limit of players designated as IR.
+* Only one non-COVID impacted player may be designated IR and must meet standard IR criteria.
+* To be "impacted by COVID"... includes:
+  * Player is unable to participate in games AND one of the the following...
+  * Player has the virus
+  * Player is under quarantine due to teammate or staff member having the virus
+  * Game for week is cancelled or not planned to be postponed due to COVID related causes (e.g. opponent has outbreak).
+* Player is no longer eligible once they return to football activities (e.g. join their team for meetings/practice) with intent to play in next available game.
+* When a player is on COVID-IR... all rules associated with regular IR apply (e.g. cap space is made available)
+  * COVID-IR players do not count toward you max roster size.
+  * When a player is no longer COVID-IR eligible, you may not acquire any new players until your roster is compliant.
+* Players acquired to fill roster position vacated by COVID-IR players have the same rules around contracts and termination penalties.
+* Where possible, ESPN's IR eligibility will be used as an indicator of COVID-IR eligibility
+* Postponed/rescheduled games do not count for IR-COVID unless agreed upon by majority vote.
