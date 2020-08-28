@@ -50,6 +50,8 @@ When two matching bids are submitted, the bid submitted on an earlier calendar d
 
 Owners may bid over their cap or roster size limit, but if a winning bid puts a team over cap space or roster limit, the owner must terminate previously existing contracts until the team once again is within roster and cap limits immediately with same 24 hours warning and 48 hour fine indicated in "In-Season Free Agents" section above. New players cannot be added and bids  cannot be won until the team us within roster and cap space limits. Also, a winning bid that puts an owner over cap/roster limits cannot be dropped until the team is within roster and cap limits.
 
+If a bid loses to a pending bid and the pending bid is cancelled, any bid that lost due to the cancelled bid becomes eligible to win the player based on the established winning criteria from above (i.e. bid must be the highest bid for 3 consecutive midnights). The team winning a player this way has a choice to take the player or not. If not, then the bidding process resumes to the next applicable bid based on this criteria or the player remains a free agent.
+
 ### Timeline for acquiring Free Agents
 
 | When | What |
