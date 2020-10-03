@@ -89,10 +89,14 @@ Due to complications introduced by the 2020 pandemic, the following rules are in
   * Player has the virus
   * Player is under quarantine due to teammate or staff member having the virus
   * Game for week is cancelled or not planned to be postponed due to COVID related causes (e.g. opponent has outbreak).
+  * Game has been postponed AND it is not possible to field a starting roster with your current roster.
 * Player is no longer eligible once they return to football activities (e.g. join their team for meetings/practice) with intent to play in next available game.
+* If game is postponed AND it is not possible to field a starting roster with your current roster, you may place players with postponed games on COVID-IR up to the amount needed to field a starting roster. 
 * When a player is on COVID-IR... all rules associated with regular IR apply (e.g. cap space is made available)
   * COVID-IR players do not count toward you max roster size.
   * When a player is no longer COVID-IR eligible, you may not acquire any new players until your roster is compliant.
 * Players acquired to fill roster position vacated by COVID-IR players have the same rules around contracts and termination penalties.
 * Where possible, ESPN's IR eligibility will be used as an indicator of COVID-IR eligibility
-* Postponed/rescheduled games do not count for IR-COVID unless agreed upon by majority vote.
+* Player is no longer eligible once they return to football activities (e.g. join their team for meetings/practice) with intent to play in next available game.
+* **Postponed Games** - Scores for players in a postponed game count toward the originally scheduled week. If a postponed game is later cancelled, that player gets 0 points for the week. This may result in pending outcomes that may change playoff matchups and outcomes. 
+
