@@ -10,7 +10,7 @@ During the NFL Regular Season, free agents and waivers can be picked up through 
     * If a team starts the player over cap, the player will receive **0 points** for the matchup and the owner will be fined **$20 USD**.  This money will go toward the championship winnings.
 * If there is a tie for a winning bid, the player goes to the team with the lower record based on inverse order of standings (resets each week).
 * This process is closed after championship week.  (1:00 PM ET Monday, Week 16)
-* If a player is dropped, that player cannot be added by the same team until at least one waiver period has passed (see [#37](https://github.com/fffrontoffice/rules/issues/37)).
+* If a player is dropped, that player cannot be added by the same team until at least one waiver period has passed (see [#37](https://github.com/fffrontoffice/rules/issues/37)). To clarify, the owner who dropped the player must take an entire bid cycle off from that player where other owners have a chance to pick up the released player uncontested by the original owner first. If the player is dropped via waiver transaction at the time the typical waiver runs, the next waiver period (typically 24 hours later or Wednesday if drop occurs after waivers on Monday). In the event the player locks and is unable to be acquired until waivers open on Wednesday, the owner who dropped the player must wait until after Wednesday waivers to place a claim. The spirit of this rule is that other owners are able to acquire the player without a competing bid by the owner who released the player.
 
 
 ### Contract Expiration
