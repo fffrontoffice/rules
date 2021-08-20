@@ -20,7 +20,7 @@ After championship week all players at the end of their contract are declared fr
 
 ### Franchise Tag
 
-At the end of the season when player contracts are expiring, a team has the option to apply a “Franchise Tag” on **1 departing player** with the following rules:
+Before the start of the season, a team has the option to apply a “Franchise Tag” on **1 departing player** (contract expired at the end of previous season). The period to declare a franchise tag begins when Market Values are established 1 week before the free agent auction and ends when rosters are locked prior to the auction. The following rules apply:
 
 * The owner can extend the player’s contract for 1-year at salary of 15% over either their market value or what you paid them last year (whichever is higher).
 * The second year a franchise tag is applied to a player, the rate increases to 30%.
