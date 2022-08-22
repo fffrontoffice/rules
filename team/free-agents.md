@@ -52,6 +52,8 @@ Teams that are over their salary cap (in the negative) cannot acquire players un
 
 If a bid loses to a pending bid and the pending bid is cancelled, any bid that lost due to the cancelled bid becomes eligible to win the player based on the established winning criteria from above (i.e. bid must be the highest bid for 3 consecutive midnights). The team winning a player this way has a choice to take the player or not. If the team declines to take the player, their bid is deemed "cancelled" and the bidding process resumes to the next applicable bid based on the criteria above.
 
+When a player is dropped, that player cannot be bid on by the team that dropped him until two midnights have passed from the time the player was dropped.
+
 ### Timeline for acquiring Free Agents
 
 | When | What |
