@@ -67,6 +67,15 @@ If you wish to drop a player, thus terminating the contract, you must pay that p
 
 > You have signed George Georgenson to a 3 year, $10 contract before the 2010 season.  If you decide to drop him in 2010, you lose $5 (10 / 2 = 5) off your total salary cap for this year, 2011, and 2012.  If you dropped him after week 8, you would lose only $3 off the 2010 salary cap, but the full $5 off 2011 and 2012.
 
+#### Retirement
+
+When a player retires from the NFL, that player's contract is able to be terminated with no termination penalty.
+
+A player is considered elibible for retirement status if:
+* He is on an NFL team and placed on the reserve/retired list.
+* He is a free agent, declared his retirement, is not seeking a new team, his retirement is acknowledged on his wikipedia page, and there is a (6 of 11) majority vote from league owners to allow the retirement status to proceed.
+
+If the player returns after being retirement status eligible, contracts terminated while they are retired preserve the protection from termination penalty.
 
 ### Injured Reserve Salary
 
