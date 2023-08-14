@@ -5,9 +5,9 @@ During the NFL season, a team’s roster will consist of **26 players** with a s
 | Position |Quantity|Description|
 |:--------|:---:|:---|
 |QB |1|Quaterback|
-|RB|2|Running Back|
+|RB|1|Running Back|
 |WR|2|Wide Receiver|
-|RB/WR/TE|1|Running Back, Wide Receiver, or Tight End|
+|RB/WR/TE|2|Running Back, Wide Receiver, or Tight End|
 |TE|1|Tight End|
 |K|1|Kicker|
 |DP|4|Defensive Player (any position)|
