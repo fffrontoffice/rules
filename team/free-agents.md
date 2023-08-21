@@ -44,15 +44,17 @@ After the rookie draft takes place, an auction draft for free agents will be hel
 
 ### Off-Season Free Agent Blind Bidding Auction
 
-After the rookie draft and free agent auction draft, all remaining free agents will be available for blind bidding through the off season.  A bid must go three days (i.e. pass midnight three times) without a better bid being placed before the owner gets the player except when the bid is submitted less than 3 days before the end of the blind bidding window. The blind bidding window ends at midnight on Sunday before NFL Week 1. At this time, all pending bids are processed with the highest active bid winning the player regardless of when it was placed (with ties on the same submitted date going to [blind auction](#off-season-blind-bidding-tie-auction-procedure)). This assumes NFL Week 1 starts with Thursday Night Football and Week 1 waivers processing on Wednesday before the first game. If this timing is not the case, League owners must vote to decide timing.
+After the rookie draft and free agent auction draft, all remaining free agents will be available for blind bidding through the off season. A bid must go three days (e.g. pass 7:00 pm PT three times) without a better bid being placed before the owner gets the player except when the bid is submitted less than 3 days before the end of the blind bidding window. Blind bids are processed daily at 7:00 pm PT. 
 
-When two or more matching bids are submitted, the bid submitted on an earlier calendar day will take precedence.  If the bids are submitted on the same calendar day and no other pending bids of a higher amount is active, then the owners will engage in a bid-off facilitated by a neutral third party owner and go to the owner willing to pay the most for the player. See [Off Season Blind Bidding Tie Auction Procedure](#off-season-blind-bidding-tie-auction-procedure) for details. 
+The blind bidding window ends at 7:00 pm PT on Sunday before NFL Week 1. At this time, all pending bids are processed with the highest active bid winning the player regardless of when it was placed (with ties on the same submitted date going to [blind auction](#off-season-blind-bidding-tie-auction-procedure)). This assumes NFL Week 1 starts with Thursday Night Football and Week 1 waivers processing on Wednesday before the first game. If this timing is not the case, League owners must vote to decide timing.
+
+When two or more matching bids are submitted, the bid submitted on an earlier day (7pm to 7pm) will take precedence. If the bids are submitted on the same day and no other pending bids of a higher amount is active, then the owners will engage in a bid-off facilitated by a neutral third party owner and go to the owner willing to pay the most for the player. See [Off Season Blind Bidding Tie Auction Procedure](#off-season-blind-bidding-tie-auction-procedure) for details. 
 
 Teams that are over their salary cap (in the negative) or roster size limits cannot acquire players until their roster is back in compliance. Owners may bid over these limits, but if a winning bid puts a team over a limit, the owner must terminate or trade previously contracts from when the roster was last in a valid state until the team once again is within roster and cap limits. This must be done immediately with the same 24 hours warning and 48 hour fine indicated in "In-Season Free Agents" section above. New players cannot be added and bids cannot be won until the team is within roster and cap space limits. Also, a winning bid that puts an owner over cap/roster limits cannot be dropped or traded until the team is within roster and cap limits.
 
-If a bid loses to a pending bid and the pending bid is cancelled, any bid that lost due to the cancelled bid becomes eligible to win the player based on the established winning criteria from above (i.e. bid must be the highest bid for 3 consecutive midnights). The team winning a player this way has a choice to take the player or not. If the team declines to take the player, their bid is deemed "cancelled" and the bidding process resumes to the next applicable bid based on the criteria above.
+If a bid loses to a pending bid and the pending bid is cancelled, any bid that lost due to the cancelled bid becomes eligible to win the player based on the established winning criteria from above (i.e. bid must be the highest bid for 3 processing windows). The team winning a player this way has a choice to take the player or not. If the team declines to take the player, their bid is deemed "cancelled" and the bidding process resumes to the next applicable bid based on the criteria above.
 
-When a player is dropped, that player cannot be bid on by the team that dropped him until two midnights have passed from the time the player was dropped.
+When a player is dropped, that player cannot be bid on by the team that dropped him until two bid processing windows (7pm) have passed from the time the player was dropped.
 
 #### Off Season Blind Bidding Tie Auction Procedure
 
@@ -68,5 +70,5 @@ The auctioneer will be randomly selected from a group of primary League auctione
 |:----|:----|
 |End of Week 16 (championship week) until FA Auction Draft|No free agent acquisition|
 |FA Auction Draft (following Rookie Draft)|Live Auction|
-|FA Auction Draft until Sunday at midnight before to NFL Week 1|Off-Season Blind Auction process|
+|FA Auction Draft until Sunday at 7:00pm before to NFL Week 1|Off-Season Blind Auction process|
 |Before NFL Week 1, after Monday ESPN waivers, until End of Week 16|In-Season Blind Auction process|
