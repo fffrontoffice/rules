@@ -12,4 +12,4 @@ During the NFL season, a team’s roster will consist of **26 players** with a s
 |K|1|Kicker|
 |DP|4|Defensive Player (any position)|
 |Bench|14|No restriction or limit on how many of each position is on your bench|
-|IR|1|Injured Reserve - Player must be allowed in the IR slot on ESPN which does not include suspended players.|
+|IR|1|Injured Reserve - Player must be allowed in the IR slot on Sleeper (or whichever platform the league is using) which does not include suspended players.|
