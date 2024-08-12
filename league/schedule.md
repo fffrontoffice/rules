@@ -10,7 +10,7 @@ The league is split into 3 divisions of 4 teams.
 Regular Season:     Weeks 1 – 11<br/>
 Weeks per regular season matchup:  1<br/>
 
-The regular season schedule will be set each year with divisional matchups played in week 1, week 3, and the last week of the regular season.
+The regular season schedule will be rotated/shuffled each year with divisional matchups played in week 1, week 3, and the last week of the regular season.
 
 ### Playoffs
 
