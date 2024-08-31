@@ -1,8 +1,8 @@
 # Dues and League Fees
 
-* Dues are **$45 USD** per year.
+* Dues are **$50 USD** per year.
 * First year participants pay up front for **2 years**.
-* If an owner wishes to opt out, notice must be given by the end of championship week (NFL Week 16) and the owner’s $45 for the next season will be returned to him/her.  If an owner does not give notice by this time, the $45 will not be refunded.
+* If an owner wishes to opt out, notice must be given by the end of championship week (NFL Week 16) and the owner’s $50 for the next season will be returned to him/her.  If an owner does not give notice by this time, the $50 will not be refunded.
 
 ### Payouts
 
@@ -15,7 +15,7 @@
 
 ### League Victor Prize
 
-$5 from every team's dues will go towards a customized piece of apparel for the league champion. The design and procurement will be fascilitated by the League Office of Victory Procurement, headed by a volunteer prior to the start of the season.
+$10 from every team's dues will go towards a customized piece of apparel for the league champion. The design and procurement will be fascilitated by the League Office of Victory Procurement, headed by a volunteer prior to the start of the season.
 
 ### Last Place Fee
 
