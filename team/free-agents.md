@@ -29,7 +29,7 @@ Before the start of the season, a team has the option to apply a “Franchise Ta
 * A franchise tag must be declared prior to the *pre-draft roster lock*.
 
 
-### Off-Season Free Agent Auction Draft
+### Off-Season Free Agent Auction Draft / Live Draft
 
 After the rookie draft takes place, an auction draft for free agents will be held.
 
@@ -39,8 +39,26 @@ After the rookie draft takes place, an auction draft for free agents will be hel
   * Players nominated by owners prior to the start of the draft. Each owner may nominate up to 3 names.
 * The Free Agent Auction is over once this list is exhausted. All other free agents become available for acquisition when Offseason Blind Bidding opens. 
 * Once a player is “won,” the owner must specify the length of contract as soon as possible, but no later than 48 hours of the draft.
-* League owners can only bid on and acquire players if there team is under or at their salary cap and roster size limits.  Owners cannot bid more than their cap space or roster size will allow.
+* League owners can only bid on and acquire players if their team is under or at their salary cap and roster size limits.  Owners cannot bid more than their cap space or roster size will allow.
 
+#### **Auction-Integrity & Technical-Issue Protocol**
+
+The intent of every auction is simple: *the roster spot goes to the owner willing and able to pay the most within the rules and reason.*  When technology interferes, we correct the result—not reward the glitch.
+
+1. **Owner duty of care** – Each owner is responsible for a stable connection and must alert others *immediately* if they notice they have lost bidding capability. Staying silent is deemed a pass.
+2. **Instant challenge window** – An owner who believes a higher bid was blocked must declare it **immediately** as soon as they are aware of the issue. After that, results stand.
+3. **Commissioner triage** – Upon a timely notification of issue, the Commissioner or delegate assess the validity and timeliness of the claim:
+
+  | Outcome | Condition | Remedy |
+  |---------|-----------|--------|
+  | **Claim upheld** | Credible evidence that owner attempted a legal higher bid | Player is re-opened at the last undisputed high bid; bidding resumes immediately with only the previous winning owner and owners suffering from technical issues eligible. |
+  | **Claim denied** | No credible evidence, claim submitted far too late, or bid would exceed cap/roster limits | Original result stands; draft proceeds. |
+
+4. **Appeal path** – A denied claimant may escalate via the league’s **[System Issues](https://github.com/fffrontoffice/rules/blob/master/league/misc.md#system-issues)** process (link above). Reversal requires a simple-majority owner vote within 24 h; otherwise the Commissioner’s ruling is final.
+
+5. **Repeat-disconnect safeguard** – If the same owner files **≥ 3 claims** in a single auction, the Commissioner may require that owner to take corrective action (e.g. switch devices), nominate a proxy bidder, or accept auto-pass on further lots.
+
+See [System Issues](https://github.com/fffrontoffice/rules/blob/master/league/misc.md#system-issues) for how to deal with other issues.
 
 ### Off-Season Free Agent Blind Bidding Auction
 
