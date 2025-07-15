@@ -4,7 +4,7 @@
 **Purpose.**  Market Value (MV) must reliably reflect an unbiased “going rate” for players in salary-cap dynasty leagues that resemble ours. The process below intends to provide clear guidelines for fair market value calculation and what to do if a market value is considered inaccurate.
 
 
-## 0️⃣  Annual Provider Selection
+## 0️⃣  Annual Provider Selection (2 weeks before draft)
 
 1. **Evaluation window** – Each year in the weeks leading up to the draft, the Commissioner (or a designated officer) reviews all publicly available auction-value sources against this checklist:
 
@@ -16,7 +16,7 @@
    | Breadth       | ≥ 100 offensive players **and** (ideally) IDP values |
    | Exportable    | CSV / JSON or scrape-friendly HTML |
 
-3. The Commissioner posts the provider recommendation to the `#league-updates` Slack channel no later than **3 weeks before the draft**.
+3. The Commissioner posts the provider recommendation to the `#league-updates` Slack channel no later than **2 weeks before the draft**.
 
 4. **Owner review window** – Owners have **72 hours** to file an objection via Slack thread or GitHub issue.
    *Objections must show that another source meets the checklist materially better.*
@@ -25,9 +25,9 @@
 
 ---
 
-## 1️⃣  Snapshot Day
+## 1️⃣  Snapshot Day (1 week before draft)
 
-* **Timing** – **2 weeks before draft day before midnight PT**.
+* **Timing** – **1 weeks before draft day before midnight PT**.
 * **Action** – Commissioner exports raw data from the market value provider with closest matching configuration (12 teams, 0.5 PPR, \$1000 cap scaled if necessary).
 * **Publication** – Upload to [FFFO](http://fffrontoffice.com), available on FFFO team pages, and announce completion in `#league-updates`.
 
