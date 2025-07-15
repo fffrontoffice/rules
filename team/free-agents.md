@@ -35,7 +35,7 @@ After the rookie draft takes place, an auction draft for free agents will be hel
 
 * Players will be nominated for auction by owners from a previously determined list of players known as the **Must Auction Live List** (MALL).
 * The MALL contains:
-  * Free agents with ESPN average auction amount of $40 or more.
+  * Free agents with market value amount of $40 or more.
   * Players nominated by owners prior to the start of the draft. Each owner may nominate up to 3 names.
 * The Free Agent Auction is over once this list is exhausted. All other free agents become available for acquisition when Offseason Blind Bidding opens. 
 * Once a player is “won,” the owner must specify the length of contract as soon as possible, but no later than 48 hours of the draft.
@@ -73,4 +73,4 @@ The auctioneer will be randomly selected from a group of primary League auctione
 |End of Week 16 (championship week) until FA Auction Draft|No free agent acquisition|
 |FA Auction Draft (following Rookie Draft)|Live Auction|
 |FA Auction Draft until Sunday at 7:00pm before to NFL Week 1|Off-Season Blind Auction process|
-|Before NFL Week 1, after Monday ESPN waivers, until End of Week 16|In-Season Blind Auction process|
+|Before NFL Week 1, after Monday waivers, until End of Week 16|In-Season Blind Auction process|
