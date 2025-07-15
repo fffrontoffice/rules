@@ -41,7 +41,7 @@ A player’s annual salary is determined based on the following:
     * Market value adjustments do not apply to defensive players.
     * While the League uses FFToolbox, market values less than $50 will be ignored as the volatility and reliability of those prices is too high.
 
-*\* __Market Value__ is determined by scaling the average auction values from the FFToolbox average auction value list.*
+*\* See [Market Value Data Source & Calculation](../league/market-value.md) for M.V. calculation and procedures.*
 
 
 #### Examples
