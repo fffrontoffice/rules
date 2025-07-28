@@ -19,4 +19,4 @@ $10 from every team's dues will go towards a customized piece of apparel for the
 
 ### Last Place Fee
 
-To incentivize teams to not “mail it in” at the end of a losing season (especially with the rookie draft’s 1st overall pick on the line), there is a **$20 last place penalty**.  Last place is determined by the team’s record, and then the tiebreakers listed in the [Structure and Schedule](schedule.md) section.
+To incentivize teams to not “mail it in” at the end of a losing season (especially with the rookie draft’s 1st overall pick on the line), there is a **$20 last place penalty**.  Last place is determined by the team’s regular season record, and then the tiebreakers listed in the [Structure and Schedule](schedule.md) section.
