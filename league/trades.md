@@ -14,6 +14,17 @@ The following resources can be included in trades:
 * Active Contracts.
 * Practice Squad Contracts.
 * Draft picks for the next rookie draft.
-* Cap space for the **current season**
-  * A team may not have more than $150 of active cap space coming from trades at any time. As trades execute sequentially, even if another trade is going to take place that lowers the team under this limit, the first trade is unable to execute if the team would be over this limit. If it is possible to exercise a multi-team trade (3 or more teams involved) that executes all at once and teams remain under this limit, then those trades are allowed.
+* Cap space for the **current season** with [New Acquired Cap Space](#trade-cap-space-limit) not to exceed $150 (see below for details).
 * Gum
+
+## Trade Cap Space Limit
+
+A team's **Net Acquired Cap Space** is the total cap space it has received from other teams via trades, minus the total cap space it has sent to other teams via trades, tracked cumulatively for the entire season.
+
+At no point in time may a team's Net Acquired Cap Space exceed $150.
+
+Trades take effect in the order they are executed. A trade is only legal if it does not cause any involved team's Net Acquired Cap Space to exceed $150 at the moment it executes. It does not matter whether a later trade — even one already agreed to — would bring the team back under the limit; each trade must be legal on its own when it happens. Trades cannot be reordered or bundled to get around this.
+
+Exception — Simultaneous multi-team trades: If a trade involves 3 or more teams and all sides of it execute as a single, simultaneous transaction, the $150 limit is checked only on the final, net result for each team after the whole transaction resolves — not on any intermediate step. If every team involved ends the transaction at or under $150 Net Acquired Cap Space, the trade is allowed, even if a piece of it, taken alone, would have exceeded the limit.
+
+Example: A team could acquire $200 in cap space from trades over the season and remain compliant, as long as it has also sent out at least $50 in cap space via trades, and its running net balance never exceeded $150 at any single point in time.
