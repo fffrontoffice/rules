@@ -9,4 +9,4 @@
 |2 midnights before draft|All roster activity locked (no drops, no practice squad activations, end of Franchise Tag declarations)
 |~1 week before pre-season|Rookie Draft<br>Free Agent Auction Draft & Signings<br>Off-Season Free Agent blind bidding opens (immed. following FAAD)|
 |1 Week before NFL Week 1|Roster cut to 26 players<br>Teams cut down under salary cap<br>Off-Season Free Agent blind bidding closes<br>In-Season Free Agent blind bidding opens|
-|After Week 12|Trade period ends|
+|After Week 8|Trade period ends. Subject to specific trade deadline enforcement in league management software. e.g. Sleeper requires Week 9 as the deadline. See the Trades page for specifics.|
