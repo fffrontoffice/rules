@@ -35,7 +35,7 @@ After the rookie draft takes place, an auction draft for free agents will be hel
 
 * Players will be nominated for auction by owners from a previously determined list of players known as the **Must Auction Live List** (MALL).
 * The MALL contains:
-  * Free agents with market value amount of $40 or more.
+  * Free agents with market value amount of $20 or more.
   * Players nominated by owners prior to the start of the draft. Each owner may nominate up to 3 names.
 * The Free Agent Auction is over once this list is exhausted. All other free agents become available for acquisition when Offseason Blind Bidding opens. 
 * Once a player is “won,” the owner must specify the length of contract as soon as possible, but no later than 48 hours of the draft.
